@@ -1,0 +1,3 @@
+class Prato
+
+end
