@@ -1,1 +1,3 @@
-ingrediente.rb
+class Ingredient
+  
+end
