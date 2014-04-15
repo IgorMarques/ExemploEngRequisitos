@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/igormarques/exemploengrequisitos.png?label=ready&title=Ready)](https://waffle.io/igormarques/exemploengrequisitos)
 ExemploEngRequisitos
 ====================
 
